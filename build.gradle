@@ -13,6 +13,8 @@ repositories {
 
 dependencies {
   implementation 'com.google.guava:guava:29.0-jre'
+  
+  implementation 'dev.langchain4j:langchain4j:0.22.0'
 }
 
 java {
