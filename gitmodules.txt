@@ -1,0 +1,3 @@
+[submodule "Gradle-template-end"]
+	path = src\main\java
+	url = https://github.com/Meowo2/Gradle-template-backend
