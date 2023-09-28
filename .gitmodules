@@ -1,3 +1,4 @@
 [submodule "Gradle-template-backend"]
-	path = src/main/java/test
+	path = src/main/java/gradle-template-backend
 	url = https://github.com/Meowo2/Gradle-template-backend
+	branch = main
